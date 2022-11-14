@@ -1,0 +1,14 @@
+In this project we were tasked with creating a task manager for a small business, that would perform various tasks such as:
+- Registering a new user to a txt file which is used to store usernames and passwords
+- Adding a task to a txt file that stores all task data
+- Generate reports using task information, these reports generates:
+  - percent of incomplete tasks 
+  - percent of overdue tasks 
+  - total tasks
+  - incomplete tasks 
+  - complete tasks 
+- View my own tasks ( this will display tasks assigned to user using their username to find these tasks in the txt file )
+- View all tasks
+- View statistics ( this will display the report generated )
+- Exit (this will exit the while loop)
+There are two different menu options based on admin privileges 
